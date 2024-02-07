@@ -63,6 +63,7 @@ node server.js
 
 [The URL of the Github repository](https://github.com/kathylopez97/Note-Taker)
 
+[The Deployed Application from Heroku](https://note-taker24-4458bd8ca76c.herokuapp.com/)
 ## Mock-up
 ![note-taker](note-taker.png)
 
