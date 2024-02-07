@@ -1,0 +1,23 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "note-taker",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kathylopez97/Note-Taker.git"
+  },
+  "author": "Kathy Lopez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kathylopez97/Note-Taker/issues"
+  },
+  "homepage": "https://github.com/kathylopez97/Note-Taker#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "uuid": "^9.0.1"
+  }
+}
